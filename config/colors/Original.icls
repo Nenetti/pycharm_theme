@@ -3,7 +3,7 @@
     <property name="created">2019-02-02T23:22:32</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-02-28T01:21:46</property>
+    <property name="modified">2019-02-28T01:22:24</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -43,7 +43,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="669b58" />
+        <option name="FOREGROUND" value="828282" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
