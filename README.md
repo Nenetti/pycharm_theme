@@ -3,7 +3,7 @@ PycharmのEditorのテーマ
 
 1. ホームディレクトリの以下のフォルダ内にそのまま入れる
 
-**.Pycharm<依存version>**
+  **.Pycharm<依存version>**
 
 2. pycharmでSchemeをOriginalに設定
 
