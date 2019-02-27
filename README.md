@@ -1,10 +1,11 @@
 # pycharm_theme
 PycharmのEditorのテーマ
 
-1. ホームディレクトリの以下のフォルダ内にそのまま入れる
+1. ホームディレクトリ下の設定フォルダ内にそのまま入れる
 
-  **.Pycharm<version>**
+ex: **.PyCharmCE2018.2**
 
-2. pycharmでSchemeをOriginalに設定
+
+2. pycharmでSchemeを変更
 
 **File > Settings > Editor > Color Scheme**
