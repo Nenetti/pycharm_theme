@@ -1,10 +1,10 @@
-<scheme name="Original" version="142" parent_scheme="Darcula">
+<scheme name="Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-02T23:22:32</property>
+    <property name="created">2019-02-28T01:42:30</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-02-28T01:30:54</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="modified">2019-02-28T01:42:30</property>
+    <property name="originalScheme">Original</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_LOCAL_VARIABLE">
